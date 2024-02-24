@@ -1,0 +1,13 @@
+{
+    "identifier": "me.sugar.coder.jyut6jyu5",
+    "version": "0.1.0",
+    "category": "translate",
+    "name": "粤语拼音翻译",
+    "summary": "将中文翻译成粤语拼音",
+    "icon": "",
+    "author": "Sugar-Coder",
+    "homepage": "",
+    "appcast": "",
+    "minBobVersion": "1.8.0",
+    "options": []
+}
