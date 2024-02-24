@@ -4,8 +4,8 @@
         {
             "version": "0.1.0",
             "desc": "初始版本",
-            "sha256": "",
-            "url": "",
+            "sha256": "b51e782ca0cbacee9679b437f7a32e2dcb436fec4f72af2a8bba8f0a66c5a5a1",
+            "url": "https://github.com/Sugar-Coder/bobplugin-jyut6jyu5/releases/download/v0.1.0/jyut6jyu5.bobplugin",
             "minBobVersion": "1.8.0",
             "timestamp": 1708779640670
         }

@@ -7,7 +7,7 @@
     "icon": "",
     "author": "Sugar-Coder",
     "homepage": "https://github.com/Sugar-Coder/bobplugin-jyut6jyu5",
-    "appcast": "",
+    "appcast": "https://github.com/Sugar-Coder/bobplugin-jyut6jyu5/raw/main/appcast.json",
     "minBobVersion": "1.8.0",
     "options": []
 }
