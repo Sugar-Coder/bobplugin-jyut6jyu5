@@ -1,0 +1,13 @@
+{
+    "identifier": "com.ripperhe.translate.test",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "desc": "初始版本",
+            "sha256": "",
+            "url": "",
+            "minBobVersion": "1.8.0",
+            "timestamp": 1708779640670
+        }
+    ]
+}
